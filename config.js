@@ -24,7 +24,7 @@ global.packname = 'TroubleMaker┃ᴮᴼᵀ'
 global.author = 'vivek' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'TroubleMaker┃ᴮᴼᵀ'
 global.fgig = 'https://www.instagram.com/vivek_kp' 
 global.fgsc = 'contact vivek'
 global.fgyt = 'contact vivek'
